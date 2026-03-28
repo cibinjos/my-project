@@ -13,11 +13,8 @@ Use named constants instead of magic numbers
 
 ## Build & Run Commands
 
-<!-- Add commands like:
-- npm install
-- npm run dev
-- npm test
--->
+run main.py
+
 
 ## Architecture Notes
 
